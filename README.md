@@ -4,7 +4,7 @@ Docente: Ing. Oscar Ariel Perez Torres
 
 Trabajo de Investigación
 
-** Proyecto Pokemon Bank **
+**Proyecto Pokemon Bank**
 
 Integrantes:
 
